@@ -12,3 +12,6 @@ pip install matplotlib
 Copie o código fornecido para um arquivo Python (por exemplo, grafico_populacao.py).
 Execute o arquivo Python:
 python grafico_populacao.py
+
+## Fonte
+IBGE - Estimativas populacionais de 2021
