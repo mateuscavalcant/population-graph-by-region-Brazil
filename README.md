@@ -14,4 +14,4 @@ Execute o arquivo Python:
 python grafico_populacao.py
 
 ## Fonte
-IBGE - Estimativas populacionais de 2021
+IBGE - Estimativas populacionais de 2021.
